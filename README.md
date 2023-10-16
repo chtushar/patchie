@@ -71,4 +71,4 @@
 
 ## Credits:
 
-- [shimmer.js](https://github.com/othiym23/shimmer/tree/master) - Patchie is heavily inspired by the shimmer package. Shimmer is unmaintained for last 5 years. It doesn't have strong types with few minor edge cases.
+- [shimmer.js](https://github.com/othiym23/shimmer/tree/master) - Patchie is heavily inspired by the shimmer package. Shimmer is unmaintained for last 5 years and have few minor edge cases.
