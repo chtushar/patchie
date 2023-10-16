@@ -21,7 +21,7 @@ const defineProperty = <V extends any, N extends string | number | symbol>(
   });
 };
 
-const symbols = {
+export const symbols = {
   WRAPPED: Symbol("WRAPPED"), // Symbol indicating that a function or property has been wrapped.
   ORIGINAL: Symbol("ORIGINAL"), // Symbol used to store the original version of the function or property prior to wrapping.
   UNWRAP: Symbol("UNWRAP"), // Symbol pointing to a function that undoes the wrap, restoring the original function or property.
